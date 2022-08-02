@@ -1,4 +1,9 @@
-## Hi there 👋
+## :construction: UNDER CONSTRUCTION :construction:
+
+Hi there :wave:
+
+This organisation is just being setup. So there's nothing to see here yet.
+Please check back later.
 
 <!--
 
